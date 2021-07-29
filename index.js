@@ -11,3 +11,10 @@ console.log(x*y)
 }
 
 bearing()
+
+function complexNumber(){
+	console.log("My branch is called Complex Branching");
+}
+
+complexNumber();
+
