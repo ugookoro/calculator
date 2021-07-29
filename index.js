@@ -1,3 +1,4 @@
+
 const integration = () => {
 	console.log('Something was integrated');
 }
@@ -11,3 +12,11 @@ console.log(x*y)
 }
 
 bearing()
+let surd = surds(6, 7); 
+
+
+function surds(x, y){
+return x/y;
+}
+console.log(surd)
+
