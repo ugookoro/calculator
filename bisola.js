@@ -1,3 +1,3 @@
-function trigonometry() {
-  console.log("This is a trigonometry function");
+function measuration() {
+  console.log("This is a measuration function");
 }
