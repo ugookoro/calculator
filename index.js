@@ -30,3 +30,8 @@ function complexNumber() {
 
 complexNumber();
 
+
+function sum(){}
+function sub(){}
+function div(){}
+function multiply(){}
