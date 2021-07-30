@@ -1,3 +1,4 @@
+
 function measuration() {
   console.log("This is a measuration function");
 }
@@ -28,3 +29,9 @@ function complexNumber() {
 }
 
 complexNumber();
+
+
+function sum(){}
+function sub(){}
+function div(){}
+function multiply(){}
